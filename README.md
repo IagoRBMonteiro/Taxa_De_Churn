@@ -8,8 +8,8 @@ Segue o passo a passo para a análise:
 - Passo 1: Importar base de dados
 - Passo 2: Visualizar a base de dados
 - Passo 3: Tratamento de dados
-- Passo 4: Analise dos cancelamentos
-- Passo 5: Analise das causas dos cancelamentos
+- Passo 4: Análise dos cancelamentos
+- Passo 5: Análise das causas dos cancelamentos
 
 ### Insights a partir da linha 11:
 
@@ -17,7 +17,7 @@ Segue o passo a passo para a análise:
 
 2° Ponto - Todos que atrasaram o pagamento 20 dias, cancelaram
 
-3º Ponto - Todos que ligaram ao Call Center + de 5 vezes, cancelara
+3º Ponto - Todos que ligaram ao Call Center + de 5 vezes, cancelaram
 
 Possíveis resoluções:
 
